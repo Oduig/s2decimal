@@ -3,7 +3,7 @@
     <tizen:application id="9M50xoArT0.s2decimal" package="9M50xoArT0" required_version="2.3.1" ambient_support="enable"/>
     <tizen:category name="http://tizen.org/category/wearable_clock"/>
     <content src="index.html"/>
-    <feature name="http://tizen.org/feature/screen.size.normal.320.320"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
     <icon src="iconcircular.png" height="117" width="117"/>
     <name>s2decimal</name>
     <tizen:privilege name="http://tizen.org/privilege/alarm"/>
