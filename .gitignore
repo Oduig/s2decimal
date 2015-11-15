@@ -25,3 +25,10 @@ proguard/
 
 # Log Files
 *.log
+
+.settings
+.build*
+*signature*.xml
+*.wgt
+.*_delta*
+.sign
