@@ -19,7 +19,7 @@ function renderDeciDayNumbers() {
         angle = null,
         base = 10,
         fontSize = 64,
-        paddingRatio = 1 - 0.1 - fontSize / 640.0,
+        paddingRatio = 1 - 0.05 - fontSize / 640.0,
         verticalOffset = fontSize / 2.9;
 
     context.save();
